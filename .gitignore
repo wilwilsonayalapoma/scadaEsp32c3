@@ -1,0 +1,31 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~
+
+# Archivos de configuración local
+config_local.php
+
+# Logs
+*.log
+logs/
+
+# Archivos de Arduino IDE
+*.hex
+*.bin
+
+# Archivos de XAMPP (no subir configuraciones locales)
+# Si quieres mantener un ejemplo de configuración, descomenta:
+# apache_config_scada.conf
+
+# Base de datos (subir solo el .sql)
+*.db
+*.sqlite
+
+# Archivos de VS Code (opcional)
+.vscode/
